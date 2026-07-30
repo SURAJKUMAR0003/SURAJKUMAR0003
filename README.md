@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Suraj Kumar<br><br>🎓 **Electronics & Communication Engineering (ECE) Student**<br>💻 Passionate about **C++, Python, Verilog HDL, FPGA Design, and Embedded Systems**<br>🚀 Currently exploring **Data Structures & Algorithms, Digital Design, and Open Source**<br>🐧 **Kali Linux Enthusiast** | Learning Cybersecurity & Linux<br>🌱 Always learning new technologies and building practical projects.<br>🎯 Goal: To become a skilled Software & Hardware Engineer.<br><br>## 🛠️ Tech Stack<br><br>* **Languages:** C++, Python, Verilog HDL<br>* **Tools:** Git, GitHub, VS Code, Vivado<br>* **Operating Systems:** Windows, Linux (Kali)<br>* **Learning:** FPGA Design, Embedded Systems, Cybersecurity<br><br>📫 **GitHub:** **SURAJKUMAR0003**<br>
+# 👋 Hi, I'm Suraj Kumar<br><br>🎓 
 
 
 ## 🌐 Socials:
